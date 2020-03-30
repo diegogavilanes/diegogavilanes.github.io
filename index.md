@@ -10,7 +10,7 @@
 </head>
   
 <header>
-  <div class"jumbotron">
+  <div class="jumbotron">
     <h2>Let's talk about testing stuff!<h2>
   </div>
 </header>
@@ -31,18 +31,18 @@
   </ul>
 </div>
 
-<div class="tab-pane container active" id="testingstuff">
+<div class="tab-pane container fade" id="testingstuff">
 </div>
 
 <div class="tab-pane container fade" id="aboutme">
-  <img src="Diego Gavilanes - Foto de Perfil Cuadrada 2.png" align="center" class="rounded-circle img-fluid " alt="Oops!" width="150" height="150">
-  <p class="text-justify">
+  <img src="Diego Gavilanes - Foto de Perfil Cuadrada 2.png" class="rounded-circle img-fluid " alt="Oops!" width="150" height="150">
+  <p class="text-justify container p-3 my-3 bg-dark text-white">
       Testing Evangelizer and passionate explorer.
       With more than eight years working in the IT industry, i am always looking to provide added value in the process of software development, whether about testing or not.
       My goal is to be a referent in the Testing area and a specialist in agile methodologies.
       I am currently a happy tester, doing lots of Testing stuff at Abstracta and at Beloved Robot.
       If you need some Testing, contact me!
-</p>  
+  </p>  
 </div>
 
 <div class="tab-pane container fade" id="otherblogs">
