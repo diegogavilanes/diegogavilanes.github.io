@@ -28,7 +28,7 @@
 <div class="tab-pane container active" id="testingstuff">...</div>
 
 <div class="tab-pane container fade" id="aboutme">
-  <img src="Diego Gavilanes - Foto de Perfil Cuadrada 2.jpg" class="rounded-circle" alt="Oops!" width="150" height="150">
+  <img src="Diego Gavilanes - Foto de Perfil Cuadrada 2.png" class="rounded-circle" alt="Oops!" width="150" height="150">
   <p>
       Testing Evangelizer and passionate explorer.
       With more than eight years working in the IT industry, i am always looking to provide added value in the process of software development, whether about testing or not.
