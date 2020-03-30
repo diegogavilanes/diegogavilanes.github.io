@@ -39,7 +39,7 @@
 
 <div class="tab-pane container fade" id="aboutme">
   <img src="Diego Gavilanes - Foto de Perfil Cuadrada 2.png" class="rounded-circle img-fluid" alt="Oops!" width="150" height="150">
-  <p class="text-justify container-md">
+  <p class="text-justify class="col-sm-8">">
     
       Testing Evangelizer and passionate explorer.
       With more than eight years working in the IT industry, i am always looking to provide added value in the process of software development, whether about testing or not.
