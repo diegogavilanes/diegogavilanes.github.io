@@ -8,7 +8,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-    <h2>Let's talk about testing stuff!</h2>
+    <h2 class="aligncenter">Let's talk about testing stuff!</h2>
     <div>
         <ul class="nav nav-tabs nav-justified">
             <li class="nav-item">
