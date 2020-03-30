@@ -13,7 +13,7 @@
 <h1>Testexperimentum</h1>
 <p>Let's talk about software testing stuff</p>
 
-<img src="" alt="Oops!" width="104" height="142">
+<img src="atomo.png" alt="Oops!" width="104" height="142">
 
 </body>
 </html>
