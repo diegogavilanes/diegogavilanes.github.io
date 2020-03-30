@@ -11,11 +11,6 @@
   
 <body>
   
-  <div class="container">
-    <h1>Testexperimentum</h1>
-    <p>Let's talk about software testing stuff</p>
-  </div>
-  
 <div>
   <ul class="nav nav-tabs nav-justified">
     <li class="nav-item">
