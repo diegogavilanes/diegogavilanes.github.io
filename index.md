@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <head>
     <title>Testexperimentum</title>
     <meta charset="utf-8">
@@ -9,11 +8,8 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </head>
-
 <body>
-
     <h2>Let's talk about testing stuff!</h2>
-
     <div>
         <ul class="nav nav-tabs nav-justified">
             <li class="nav-item">
@@ -27,9 +23,7 @@
             </li>
         </ul>
     </div>
-
     <div class="tab-pane container fade" id="testing"></div>
-
     <div class="tab-pane container fade" id="aboutme">
         <div class="row">
             <div class="col"></div>
@@ -42,8 +36,6 @@
             <div class="col"></div>
         </div>
     </div>
-
     <div class="tab-pane container fade" id="otherblogs"></div>
 </body>
-
 </html>
