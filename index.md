@@ -12,9 +12,6 @@
     <div>
         <ul class="nav nav-tabs nav-justified">
             <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#testing">Testing stuff</a>
-            </li>
-            <li class="nav-item">
                 <a class="nav-link" data-toggle="tab" href="#aboutme">About me</a>
             </li>
             <li class="nav-item">
@@ -22,7 +19,6 @@
             </li>
         </ul>
     </div>
-    <div class="tab-pane container fade" id="testing"></div>
     <div class="tab-pane container fade" id="aboutme">
         <div class="row">
             <div class="col"></div>
