@@ -26,9 +26,9 @@
     <div class="tab-pane container fade" id="aboutme">
         <div class="row">
             <div class="col"></div>
-            <div class="col">
+            <div class="col aligncenter">
                 <img src="diegoimage.png" class="rounded-circle img-fluid" alt="Oops!" width="150" height="150">
-                <p class="text-justify col">
+                <p class="text-justify">
                     Testing Evangelizer and passionate explorer. With more than eight years working in the IT industry, i am always looking to provide added value in the process of software development, whether about testing or not. My goal is to be a referent in the Testing area and a specialist in agile methodologies. I am currently a happy tester, doing lots of Testing stuff at Abstracta and at Beloved Robot. If you need some Testing, contact me!
                 </p>
             </div>
