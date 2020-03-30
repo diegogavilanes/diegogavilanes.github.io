@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head>
     <title>Testexperimentum</title>
     <meta charset="utf-8">
@@ -38,4 +37,3 @@
     </div>
     <div class="tab-pane container fade" id="otherblogs"></div>
 </body>
-</html>
