@@ -26,7 +26,20 @@
 </div>
 
 <div class="tab-pane container active" id="testingstuff">...</div>
-<div class="tab-pane container fade" id="aboutme">...</div>
+
+<div class="tab-pane container fade" id="aboutme">
+  <img src="Diego Gavilanes - Foto de Perfil Cuadrada 2.jpg" class="rounded-circle" alt="Oops!" width="150" height="150">
+  <p>
+      Testing Evangelizer and passionate explorer.
+      With more than eight years working in the IT industry, i am always looking to provide added value in the process of software development, whether about testing or not.
+      My goal is to be a referent in the Testing area and a specialist in agile methodologies.
+
+      I am currently a happy tester, doing lots of Testing stuff at Abstracta and at Beloved Robot.
+
+      If you need some Testing, contact me!
+</p>  
+</div>
+
 <div class="tab-pane container fade" id="otherblogs">...</div>
   
 </body>
