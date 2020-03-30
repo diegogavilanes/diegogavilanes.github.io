@@ -16,20 +16,19 @@
     <p>Let's talk about software testing stuff</p>
   </div>
   
-<div class="jumbotron">
- <p>Justified tabs:</p>
+<div>
   <ul class="nav nav-tabs nav-justified">
     <li class="nav-item">
       <a class="nav-link active" href="#">Active</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Link</a>
+      <a class="nav-link" href="#">Active</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Link</a>
+      <a class="nav-link" href="#">Active</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link disabled" href="#">Disabled</a>
+      <a class="nav-link disabled" href="#">Active</a>
     </li>
   </ul>
 </div>
