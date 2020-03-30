@@ -8,34 +8,36 @@
    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-   <h2 class="aligncenter">Let's talk about testing stuff!</h2>
-   <div>
+   <div class="container">
       <!-- Nav tabs -->
-      <ul class="nav nav-tabs">
+      <ul class="nav nav-tabs" role="tablist">
          <li class="nav-item">
-            <a class="nav-link active" data-toggle="tab" href="#home">Blog</a>
+            <a class="nav-link active" data-toggle="tab" href="#testingstuff">Testing stuff</a>
          </li>
          <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#aboutme">About me</a>
+            <a class="nav-link" data-toggle="tab" href="#about">About me</a>
          </li>
          <li class="nav-item">
-            <a class="nav-link" data-toggle="tab" href="#otherblogs">Others</a>
+            <a class="nav-link" data-toggle="tab" href="#others">Others</a>
          </li>
       </ul>
-   </div>
-   <div class="tab-content">
-      <div class="tab-pane container fade" id="aboutme">
-         <div class="row">
-            <div class="col"></div>
-            <div class="col aligncenter">
-               <img src="diegoimage.png" class="rounded-circle img-fluid" alt="Oops!" width="150" height="150">
-               <p class="text-justify">
-                  Testing Evangelizer and passionate explorer. With more than eight years working in the IT industry, i am always looking to provide added value in the process of software development, whether about testing or not. My goal is to be a referent in the Testing area and a specialist in agile methodologies. I am currently a happy tester, doing lots of Testing stuff at Abstracta and at Beloved Robot. If you need some Testing, contact me!
-               </p>
-            </div>
-            <div class="col"></div>
+      <!-- Tab panes -->
+      <div class="tab-content">
+         <div id="testingstuff" class="container tab-pane active">
+            <br>
+            <h3>TESTING STUFF</h3>
+            <p></p>
+         </div>
+         <div id="about" class="container tab-pane fade">
+            <br>
+            <h3>ABOUT ME</h3>
+            <p></p>
+         </div>
+         <div id="others" class="container tab-pane fade">
+            <br>
+            <h3>OTHERS</h3>
+            <p></p>
          </div>
       </div>
-      <div class="tab-pane container fade" id="otherblogs"></div>
    </div>
 </body>
