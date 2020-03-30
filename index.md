@@ -10,13 +10,17 @@
 <body>
     <h2 class="aligncenter">Let's talk about testing stuff!</h2>
     <div>
-        <ul class="nav nav-tabs nav-justified">
-            <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#aboutme">About me</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" data-toggle="tab" href="#otherblogs">Other blogs</a>
-            </li>
+        <!-- Nav tabs -->
+        <ul class="nav nav-tabs">
+          <li class="nav-item">
+            <a class="nav-link active" data-toggle="tab" href="#home">Blog</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" data-toggle="tab" href="#aboutme">About me</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" data-toggle="tab" href="#menu2">Others</a>
+          </li>
         </ul>
     </div>
     <div class="tab-pane container fade" id="aboutme">
