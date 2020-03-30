@@ -19,16 +19,20 @@
 <div>
   <ul class="nav nav-tabs nav-justified">
     <li class="nav-item">
-      <a class="nav-link active" href="#">Testing stuff</a>
+      <a class="nav-link active" data-toggle="tab" href="#testingstuff">Testing stuff</a>
     </li>
     <li class="nav-item">
-      <a class="nav-active" href="#">About me</a>
+      <a class="nav-link" data-toggle="tab" href="#aboutme">About me</a>
     </li>
     <li class="nav-item">
-      <a class="nav-active" href="#">Other blogs</a>
+      <a class="nav-link" data-toggle="tab" href="#otherblogs">Other blogs</a>
     </li>
   </ul>
 </div>
+
+<div class="tab-pane container active" id="testingstuff">...</div>
+<div class="tab-pane container fade" id="aboutme">...</div>
+<div class="tab-pane container fade" id="otherblogs">...</div>
   
 </body>
 
