@@ -8,12 +8,8 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </head>
-  
-<header>
-  <div class="jumbotron">
-    <h2>Let's talk about testing stuff!</h2>
-  </div>
-</header>
+ 
+    <h2 >Let's talk about testing stuff!</h2>
   
 <body>
   
@@ -36,7 +32,7 @@
 
 <div class="tab-pane container fade" id="aboutme">
   <img src="Diego Gavilanes - Foto de Perfil Cuadrada 2.png" class="rounded-circle img-fluid" alt="Oops!" width="150" height="150">
-  <p class="text-justify class="col-sm-8">
+  <p class="text-justify" class="col-sm-8">
     
       Testing Evangelizer and passionate explorer.
       With more than eight years working in the IT industry, i am always looking to provide added value in the process of software development, whether about testing or not.
