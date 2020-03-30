@@ -19,16 +19,13 @@
 <div>
   <ul class="nav nav-tabs nav-justified">
     <li class="nav-item">
-      <a class="nav-link active" href="#">Active</a>
+      <a class="nav-link active" href="#">Testing stuff</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Active</a>
+      <a class="nav-active" href="#">About me</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="#">Active</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link disabled" href="#">Active</a>
+      <a class="nav-active" href="#">Other blogs</a>
     </li>
   </ul>
 </div>
