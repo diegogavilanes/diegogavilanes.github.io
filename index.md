@@ -20,10 +20,7 @@
 <div>
   <ul class="nav nav-tabs nav-justified">
     <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#test">Test</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" data-toggle="tab" href="#testingstuff">Testing stuff</a>
+      <a class="nav-link" data-toggle="tab" href="#testing">Testing stuff</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" data-toggle="tab" href="#aboutme">About me</a>
@@ -34,7 +31,7 @@
   </ul>
 </div>
 
-<div class="tab-pane container fade" id="test">
+<div class="tab-pane container fade" id="testing">
 </div>
 
 <div class="tab-pane container fade" id="aboutme">
