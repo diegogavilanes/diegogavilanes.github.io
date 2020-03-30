@@ -9,11 +9,13 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-
-<h1>Testexperimentum</h1>
-<p>Let's talk about software testing stuff</p>
-
-<img src="atomo.png" alt="Oops!" width="104" height="142">
-
+  <div class="container">
+    <h1>My First Bootstrap Page</h1>
+    <p>Let's talk about software testing stuff</p>
+  </div>
+<div class="jumbotron">
+<img src="atomo.png" alt="Oops!" width="100" height="100">
+</div>
+  
 </body>
 </html>
