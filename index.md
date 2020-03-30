@@ -20,7 +20,7 @@
 <div>
   <ul class="nav nav-tabs nav-justified">
     <li class="nav-item">
-      <a class="nav-link active" data-toggle="tab" href="#testingstuff">Testing stuff</a>
+      <a class="nav-link" data-toggle="tab" href="#testingstuff">Testing stuff</a>
     </li>
     <li class="nav-item">
       <a class="nav-link" data-toggle="tab" href="#aboutme">About me</a>
